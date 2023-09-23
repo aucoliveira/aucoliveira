@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aucoliveira.png" alt="TryHackMe">
 
-<img src="https://www.credly.com/badges/de883e9b-4f4d-495e-b3c3-f9cea0c9dbeb/public_url" alt="AWS Certified Cloud Practitioner">
+![Badge da AWS](https://www.credly.com/badges/de883e9b-4f4d-495e-b3c3-f9cea0c9dbeb/public_url)
+
 
