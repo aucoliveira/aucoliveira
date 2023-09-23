@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: azotaugusto@gmail.com,
 - 📫 linkedin: https://www.linkedin.com/in/augusto-cesar-devjava/
+- <script src="https://tryhackme.com/badge/2313876"></script>
 
 <!---
 aucoliveira/aucoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
