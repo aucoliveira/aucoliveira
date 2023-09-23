@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aucoliveira.png" alt="TryHackMe">
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="de883e9b-4f4d-495e-b3c3-f9cea0c9dbeb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
