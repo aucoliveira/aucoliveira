@@ -11,5 +11,5 @@ aucoliveira/aucoliveira is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://tryhackme.com/badge/2313876" alt="TryHackMe Badge">
+<img src="https://tryhackme-badges.s3.amazonaws.com/aucoliveira.png" alt="TryHackMe">
 
