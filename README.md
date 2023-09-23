@@ -10,13 +10,12 @@
 aucoliveira/aucoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://tryhackme.com/badge/2313876">
     <img src="https://tryhackme-badges.s3.amazonaws.com/aucoliveira.png" alt="TryHackMe">
   </a>
   <img src="https://github.com/aucoliveira/aucoliveira/blob/main/aws-certified-cloud-practitioner%20(2).png" alt="AWS Certified Cloud Practitioner">
-</p>
-
+</div>
 <p align="center">
   <a href="https://www.credly.com/badges/de883e9b-4f4d-495e-b3c3-f9cea0c9dbeb/public_url">Verifique</a>
 </p>
