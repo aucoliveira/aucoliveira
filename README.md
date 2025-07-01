@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.credly.com/badges/de883e9b-4f4d-495e-b3c3-f9cea0c9dbeb/public_url"><img src="https://github.com/aucoliveira/aucoliveira/blob/main/aws-certified-cloud-practitioner%20(2).png" alt="AWS Certified Cloud Practitioner"></a>
 </div>
+--->
 
 
 
