@@ -9,7 +9,7 @@
 <!---
 aucoliveira/aucoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://tryhackme.com/badge/2313876">
     <img src="https://tryhackme-badges.s3.amazonaws.com/aucoliveira.png" alt="TryHackMe">
